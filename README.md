@@ -43,6 +43,7 @@ program to determine the position of cycle
  ## 套利
  - 寻找全市场股票间相关性指数，选择相关性最强的品种用于统计套利 
  - 股债利差，两个标准差为标准
+ - 计算指标的稳定性，来寻找合适的指标
 
 
  ## 因子 Factors
@@ -70,4 +71,8 @@ program to determine the position of cycle
 
 ## 研究
  - 股东数量数据披露，与股价的关系研究，先导性与滞后性
+ - 
+
+## 梳理出对一个公司、行业最重要的3-5个因素
+ - 例如对证券行业，PB、市场滚动成交额、全市场融资规模很重要
  - 
